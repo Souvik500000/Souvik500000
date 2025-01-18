@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Souvik Chakraborty!
 
-🎓M.Sc Data analutic| Bachelor's in Statistics | 📊 Data Analyst | 📈 Machine Learning Enthusiast
+🎓M.Sc Data analytics| Bachelor's in Statistics | 📊 Data Analyst | 📈 Machine Learning Enthusiast
 
 Welcome to my GitHub! I'm passionate about turning data into actionable insights and building solutions using analytics, statistical modeling, and machine learning.
 
